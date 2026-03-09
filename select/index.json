@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Summer of 69 (Classic Version)",
+  "base_artist": "Bryan Adams",
+  "createdAt": "2026-03-09T08:24:32.142837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer of Heat",
+      "artist": "Mitch Murder feat. Kristine",
+      "has_synced": true,
+      "path": "select/01_Summer_of_Heat_Mitch_Murder_feat._Kristine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer of Love",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/02_Summer_of_Love_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer Of Love",
+      "artist": "Novaspace",
+      "has_synced": true,
+      "path": "select/03_Summer_Of_Love_Novaspace.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Of '69",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": true,
+      "path": "select/04_Summer_Of_'69_The_Cooltrane_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summer of Love",
+      "artist": "The Fresh & Onlys",
+      "has_synced": false,
+      "path": "select/05_Summer_of_Love_The_Fresh_&_Onlys.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summer of Love",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/06_Summer_of_Love_U2.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer of Hate",
+      "artist": "Helstar",
+      "has_synced": false,
+      "path": "select/07_Summer_of_Hate_Helstar.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer Of Now",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/08_Summer_Of_Now_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summer of Love",
+      "artist": "The Sandwitches",
+      "has_synced": false,
+      "path": "select/09_Summer_of_Love_The_Sandwitches.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Summer of Love",
+      "artist": "La Sera",
+      "has_synced": true,
+      "path": "select/10_Summer_of_Love_La_Sera.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Summer of 88",
+      "artist": "Velveteen",
+      "has_synced": false,
+      "path": "select/11_Summer_of_88_Velveteen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer Of '69",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/12_Summer_Of_'69_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Summer of Heat (feat. Kristine)",
+      "artist": "Mitch Murder",
+      "has_synced": true,
+      "path": "select/13_Summer_of_Heat_(feat._Kristine)_Mitch_Murder.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Summer of Love (2006 Re-Touch)",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/14_Summer_of_Love_(2006_Re-Touch)_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Endless Summer of the Damned",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/15_Endless_Summer_of_the_Damned_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Ain't The Summer Of Love - Remastered",
+      "artist": "L7",
+      "has_synced": false,
+      "path": "select/16_This_Ain't_The_Summer_Of_Love_-_Remastered_L7.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "This Ain't the Summer of Love",
+      "artist": "Blue Öyster Cult",
+      "has_synced": false,
+      "path": "select/17_This_Ain't_the_Summer_of_Love_Blue_Öyster_Cult.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "This Ain’t the Summer of Love",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/18_This_Ain’t_the_Summer_of_Love_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summer Of 69",
+      "artist": "Bryan Adams",
+      "has_synced": false,
+      "path": "select/pl_01_Summer_Of_69_Bryan_Adams.txt"
+    }
+  ]
+}
